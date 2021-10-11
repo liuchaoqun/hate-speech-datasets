@@ -12,6 +12,10 @@ This repository consist dataset mentioned in some papers.
   - DV
   - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
 
+* [Targets and Aspects in Social Media Hate Speech](https://github.com/TalnUPF/HateSpeechTargetsAspects)
+
+* [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) 
+
 
 Some other hate speech datasets: 
 * [Hate speech identification](https://github.com/t-davidson/hate-speech-and-offensive-language): Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
