@@ -12,9 +12,9 @@ This repository consist dataset mentioned in some papers.
   - DV
   - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
 
-* [Targets and Aspects in Social Media Hate Speech](https://github.com/TalnUPF/HateSpeechTargetsAspects)
+* [Targets and Aspects in Social Media Hate Speech](https://aclanthology.org/2021.woah-1.19.pdf) ([sorce]((https://github.com/TalnUPF/HateSpeechTargetsAspects))
 
-* [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) 
+* [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) ([source](https://github.com/Yakoob-Khan/Toxic-Spans-Detection))
 
 
 Some other hate speech datasets: 
