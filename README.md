@@ -7,7 +7,10 @@ This repository consist dataset mentioned in some papers.
 * [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)
   - implicit-hate-corpus
 
-* [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/)
+* [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
+  - Twitter SA
+  - DV
+  - 
 
 
 Some other hate speech datasets: 
