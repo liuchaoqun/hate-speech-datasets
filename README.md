@@ -10,7 +10,7 @@ This repository consist dataset mentioned in some papers.
 * [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
   - Twitter SA
   - DV
-  - SE2019-task-5
+  - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
 
 
 Some other hate speech datasets: 
