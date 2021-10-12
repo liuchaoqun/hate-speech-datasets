@@ -15,6 +15,7 @@ This repository consist dataset mentioned in some papers.
 * [Targets and Aspects in Social Media Hate Speech](https://aclanthology.org/2021.woah-1.19.pdf) ([source code](https://github.com/TalnUPF/HateSpeechTargetsAspects))
 
 * [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) ([source code](https://github.com/Yakoob-Khan/Toxic-Spans-Detection))
+  - Task: [Toxic Spans Detection (SemEval 2021 Task 5)](https://github.com/ipavlopoulos/toxic_spans)
 
 
 # Some other hate speech datasets: 
