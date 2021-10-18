@@ -13,7 +13,7 @@ This repository consist dataset mentioned in some papers.
 
 ## [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)
 * dataset
-  - implicit-hate-corpus
+  - [implicit-hate-corpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/implicit-hate-corpus)
 * problem
   - most work has focused on explicit or overt hate speech, failing to ad- dress a more pervasive form based on coded or indirect language.
 * methodology
@@ -26,9 +26,16 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/implicit2.png?raw=true)
 
 ## [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
+* dataset 
   - [Twitter SA](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/Twitter-SA)
-  - DV
+  - [DV](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/DV)
   - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
+* problem
+  - The deep learning methods of predecessors often only used pre-trained models or deeper networks to obtain semantic features, ignoring the sentiment features of the target sentences and external sentiment resources, which also makes the performance of neural networks unsatisfactory in hate speech detection.
+* methodology
+  - propose a hate speech detection framework based on sentiment knowledge sharing
+* performance
+  - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/SKS.png?raw=true)
 
 ## [Targets and Aspects in Social Media Hate Speech](https://aclanthology.org/2021.woah-1.19.pdf) ([source code](https://github.com/TalnUPF/HateSpeechTargetsAspects))
 
