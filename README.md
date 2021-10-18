@@ -21,8 +21,8 @@ This repository consist dataset mentioned in some papers.
   - Provide a dataset for implicit hate speech.
   - Provide several state of the art baselines for detecting and explaining implicit hate speech.
 * performance
-![](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/figs/implicit1.png?raw=true)
-![](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/figs/implicit2.png?raw=true)
+![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/implicit1.png?raw=true)
+![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/implicit2.png?raw=true)
 
 ## [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
   - Twitter SA
