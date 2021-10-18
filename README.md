@@ -2,7 +2,7 @@
 This repository consist dataset mentioned in some papers. 
 ## [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/abs/2005.02439) ([source code](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations))
 * dataset
-  - GabHateCorpus
+  - [GabHateCorpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/GabHateCorpus)
   - [Stormfront corpus](https://github.com/aitor-garcia-p/hate-speech-dataset)
 * problem
   - models tend to have biases over group identifiers but unable to learn from context, which leads to false positives.
@@ -26,7 +26,7 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/implicit2.png?raw=true)
 
 ## [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
-  - Twitter SA
+  - [Twitter SA](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/Twitter-SA)
   - DV
   - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
 
