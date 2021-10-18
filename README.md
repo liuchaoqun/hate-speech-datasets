@@ -12,7 +12,17 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/contextualizing.png?raw=true)
 
 ## [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)
+* dataset
   - implicit-hate-corpus
+* problem
+  - most work has focused on explicit or overt hate speech, failing to ad- dress a more pervasive form based on coded or indirect language.
+* methodology
+  - introduce a theoretical taxonomy of implicit hate speech 
+  - Provide a dataset for implicit hate speech.
+  - Provide several state of the art baselines for detecting and explaining implicit hate speech.
+* performance
+![](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/figs/implicit1.png?raw=true)
+![](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/figs/implicit2.png?raw=true)
 
 ## [Hate Speech Detection Based on Sentiment Knowledge Sharing](https://aclanthology.org/2021.acl-long.556/) ([source code](https://github.com/1783696285/SKS))
   - Twitter SA
