@@ -29,7 +29,7 @@ This repository consist dataset mentioned in some papers.
 * dataset 
   - [Twitter SA](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/Twitter-SA)
   - [DV](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/DV)
-  - SE2019-task-5 ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
+  - [SE2019-task-5](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/SE2019-task-5) ([source from CodaLab](https://competitions.codalab.org/competitions/19935#learn_the_details))
 * problem
   - The deep learning methods of predecessors often only used pre-trained models or deeper networks to obtain semantic features, ignoring the sentiment features of the target sentences and external sentiment resources, which also makes the performance of neural networks unsatisfactory in hate speech detection.
 * methodology
