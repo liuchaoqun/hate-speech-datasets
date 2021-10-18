@@ -38,10 +38,18 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/SKS.png?raw=true)
 
 ## [Targets and Aspects in Social Media Hate Speech](https://aclanthology.org/2021.woah-1.19.pdf) ([source code](https://github.com/TalnUPF/HateSpeechTargetsAspects))
+* dataset
+  - [data](https://github.com/TalnUPF/HateSpeechTargetsAspects/tree/main/data)
+* problem
+  -	Identify who is the target in a given hate speech post.
+  -	Identify what aspects (or characteristics) of the target are attributed to the target in the post.
 
 ## [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) ([source code](https://github.com/Yakoob-Khan/Toxic-Spans-Detection))
+* problem: 
   - Task: [Toxic Spans Detection (SemEval 2021 Task 5)](https://github.com/ipavlopoulos/toxic_spans)
-
+  - extract the list of toxic spans that attribute to a text’s toxicity 
+* Methodology: BERT + post-processing
+* Performance: •	Our system significantly outperformed the pro- vided baseline and achieved an F1-score of 0.683, placing Lone Pine in the 17th place out of 91 teams in the competition.
 
 # Some other hate speech datasets: 
 * [Hate speech identification](https://github.com/t-davidson/hate-speech-and-offensive-language): Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
