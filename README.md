@@ -9,7 +9,7 @@ This repository consist dataset mentioned in some papers.
 * methodology
   - propose a novel regularization technique (Regularizing SOC explanations of group identifiers) based on these explanations that encourages models to learn from the context of group identifiers in addition to the identifiers themselves.
 * performance
-  - [image](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/contextualizing.png)
+  - [](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/contextualizing.png?raw=true)
 
 ## [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)
   - implicit-hate-corpus
