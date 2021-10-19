@@ -52,6 +52,7 @@ This repository consist dataset mentioned in some papers.
   - Task: [Toxic Spans Detection (SemEval 2021 Task 5)](https://github.com/ipavlopoulos/toxic_spans)
   - extract the list of toxic spans that attribute to a text’s toxicity 
 * Methodology: BERT + post-processing
+  - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/bertoxic.png?raw=true)
 * Performance: •	Our system significantly outperformed the pro- vided baseline and achieved an F1-score of 0.683, placing Lone Pine in the 17th place out of 91 teams in the competition.
 
 # Some other hate speech datasets: 
