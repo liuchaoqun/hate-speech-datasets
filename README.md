@@ -34,7 +34,7 @@ This repository consist dataset mentioned in some papers.
   - The deep learning methods of predecessors often only used pre-trained models or deeper networks to obtain semantic features, ignoring the sentiment features of the target sentences and external sentiment resources, which also makes the performance of neural networks unsatisfactory in hate speech detection.
 * methodology
   - propose a hate speech detection framework based on sentiment knowledge sharing
-  - [](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/SKS_arch.png?raw=true)
+  - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/SKS_arch.png?raw=true)
 * performance
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/SKS.png?raw=true)
 
