@@ -44,6 +44,8 @@ This repository consist dataset mentioned in some papers.
 * problem
   -	Identify who is the target in a given hate speech post.
   -	Identify what aspects (or characteristics) of the target are attributed to the target in the post.
+* methodology
+  - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/targets_arch.png?raw=true)
 
 ## [Lone Pine at SemEval-2021 Task 5: Fine-Grained Detection of Hate Speech Using BERToxic](https://arxiv.org/abs/2104.03506) ([source code](https://github.com/Yakoob-Khan/Toxic-Spans-Detection))
 * problem: 
