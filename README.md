@@ -1,5 +1,13 @@
 # hate-speech-datasets
 This repository consist dataset mentioned in some papers. 
+## [The Gab Hate Corpus: A collection of 27k posts annotated for hate speech](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/GabHateCorpus/Documentation/2020_The%20Gab%20Hate%20Corpus-%20A%20collection%20of%2027k%20posts%20annotated%20for%20hate%20speech.pdf)
+* dataset
+  - [GabHateCorpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/GabHateCorpus)
+* problem
+  -  provide a large-scale hate speech dataset
+* performance (baseline)
+  - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/GabHateCorpus/GHC_baseline.png?raw=true)
+
 ## [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/abs/2005.02439) ([source code](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations))
 * dataset
   - [GabHateCorpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/GabHateCorpus)
