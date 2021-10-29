@@ -11,7 +11,7 @@ This repository consist dataset mentioned in some papers.
 ## [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/abs/2005.02439) ([source code](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations))
 * dataset
   - [GabHateCorpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/GabHateCorpus)
-  - [Stormfront corpus](https://github.com/aitor-garcia-p/hate-speech-dataset)
+  - [Stormfront corpus](https://github.com/aitor-garcia-p/hate-speech-dataset)[paper](https://arxiv.org/pdf/1809.04444.pdf)
 * problem
   - models tend to have biases over group identifiers but unable to learn from context, which leads to false positives.
 * methodology
