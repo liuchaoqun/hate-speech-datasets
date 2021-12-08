@@ -1,6 +1,12 @@
 # implicit-hate-corpus
 
-This folder includes:
+**NEW (as of 11/06/2021):**
+
+It is common for Twitter to ban accounts linked with offensive or hateful behavior. Unsurprisingly, more than 60% of the tweets in this dataset were no longer publicly accessible via the Twitter API as of 11/06/2021. That is why we now provide `implicit_hate_v1_stg1_posts.tsv`,  `implicit_hate_v1_stg2_posts.tsv`, and  `implicit_hate_v1_stg3_posts.tsv`. Each gives an alternative view of the data in which we provide the full text from the tweets themselves (`post`) but *not* the tweet ID according to the Twitter API guidelines.
+
+-----------------------------
+
+This folder also includes:
 
 * `implicit_hate_v1_stg1.tsv`: The Stage-1 annotations (high-level; §4.2.1 in the paper) with the following columns:
   * `ID`: (str) The unique identifier for the post. 
@@ -29,4 +35,12 @@ df = pd.read_csv("stg2_file_ID.tsv", delimiter='\t')
 For more information, please see our paper:
 
 ElSherief, M., Ziems, C., Muchlinski, D., Anupindi, V., Seybolt, J., De Choudhury, M., & Yang, D. (2021). [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](#). In _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.
+
+### Note:
+
+The link to the data access form: https://forms.gle/QxCpEbVp91Z35hWFA
+
+The link to the Box directory is: https://gatech.box.com/s/6juaf8g5cpficlc7s6tikugyt64x404n
+
+The password for the Box link is: `implicitH8`
 
