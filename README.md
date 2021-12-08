@@ -19,7 +19,7 @@ This repository consist dataset mentioned in some papers.
 * performance
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/contextualizing.png?raw=true)
 
-## [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)
+## [Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://arxiv.org/abs/2109.05322)([source code](https://github.com/GT-SALT/implicit-hate))
 * dataset
   - [implicit-hate-corpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/implicit-hate-corpus)
 * problem
