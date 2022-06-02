@@ -63,5 +63,7 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/bertoxic.png?raw=true)
 * Performance: •	Our system significantly outperformed the pro- vided baseline and achieved an F1-score of 0.683, placing Lone Pine in the 17th place out of 91 teams in the competition.
 
+## [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://arxiv.org/abs/2012.10289) ([source code](https://github.com/hate-alert/HateXplain))
+
 # Some other hate speech datasets: 
 * [Hate speech identification](https://github.com/t-davidson/hate-speech-and-offensive-language): Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
