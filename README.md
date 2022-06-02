@@ -6,7 +6,7 @@ This repository consist dataset mentioned in some papers.
 * problem
   -  provide a large-scale hate speech dataset
 * performance (baseline)
-  - <img src="https://github.com/liuchaoqun/hate-speech-datasets/blob/main/GabHateCorpus/GHC_baseline.png?raw=true" width="500">
+  - <img src="https://github.com/liuchaoqun/hate-speech-datasets/blob/main/GabHateCorpus/GHC_baseline.png?raw=true" width="600">
 
 ## [Contextualizing Hate Speech Classifiers with Post-hoc Explanation](https://arxiv.org/abs/2005.02439) ([source code](https://github.com/BrendanKennedy/contextualizing-hate-speech-models-with-explanations))
 * dataset
