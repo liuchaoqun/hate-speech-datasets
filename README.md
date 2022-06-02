@@ -1,5 +1,10 @@
 # hate-speech-datasets
 This repository consist dataset mentioned in some papers. 
+  * [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://arxiv.org/abs/2012.10289) ([source code](https://github.com/hate-alert/HateXplain))
+  * [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
+    - Task: Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
+   * [TweetEval benchmark (Findings of EMNLP 2020)](https://github.com/cardiffnlp/tweeteval)
+# Papers
 ## [The Gab Hate Corpus: A collection of 27k posts annotated for hate speech](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/GabHateCorpus/Documentation/2020_The%20Gab%20Hate%20Corpus-%20A%20collection%20of%2027k%20posts%20annotated%20for%20hate%20speech.pdf)
 * dataset
   - [GabHateCorpus](https://github.com/liuchaoqun/hate-speech-datasets/tree/main/GabHateCorpus)
@@ -63,8 +68,4 @@ This repository consist dataset mentioned in some papers.
   - ![](https://github.com/liuchaoqun/hate-speech-datasets/blob/main/figs/bertoxic.png?raw=true)
 * Performance: •	Our system significantly outperformed the pro- vided baseline and achieved an F1-score of 0.683, placing Lone Pine in the 17th place out of 91 teams in the competition.
 
-## [HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection](https://arxiv.org/abs/2012.10289) ([source code](https://github.com/hate-alert/HateXplain))
 
-## [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
-* problem: 
-  - Task: Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
